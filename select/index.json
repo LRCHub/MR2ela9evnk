@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Supersonic",
+  "base_artist": "fromis_9",
+  "createdAt": "2025-12-09T16:10:27.080014Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Supersonic",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/01_Supersonic_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Supersonic - Live At Glasgow Tramshed",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/02_Supersonic_-_Live_At_Glasgow_Tramshed_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Supersonic (Live at Glasgow Tramshed)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/03_Supersonic_(Live_at_Glasgow_Tramshed)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Supersonic - Live",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/04_Supersonic_-_Live_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Supersonic (Live)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/05_Supersonic_(Live)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Supersonic (Live)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/06_Supersonic_(Live)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Supersonic (My Existence) [with Noisia, josh pan & Dylan Brady]",
+      "artist": "Skrillex feat. Noisia, josh pan & Dylan Brady",
+      "has_synced": true,
+      "path": "select/07_Supersonic_(My_Existence)_[with_Noisia,_josh_pan_&_Dylan_Brady]_Skrillex_feat._Noisia,_josh_pan_&_Dylan_Brady.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Supersonic (My Existence)",
+      "artist": "Skrillex, Noisia, josh pan, Dylan Brady",
+      "has_synced": true,
+      "path": "select/08_Supersonic_(My_Existence)_Skrillex,_Noisia,_josh_pan,_Dylan_Brady.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Supersonic (Vip)",
+      "artist": "Noisia feat. Skrillex, josh pan & Dylan Brady",
+      "has_synced": true,
+      "path": "select/09_Supersonic_(Vip)_Noisia_feat._Skrillex,_josh_pan_&_Dylan_Brady.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Supersonic (VIP) (with Skrillex, josh pan & Dylan Brady)",
+      "artist": "Noisia",
+      "has_synced": true,
+      "path": "select/10_Supersonic_(VIP)_(with_Skrillex,_josh_pan_&_Dylan_Brady)_Noisia.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Supersonic",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/11_Supersonic_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Supersonic - Live April '94",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/12_Supersonic_-_Live_April_'94_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Supersonic",
+      "artist": "Jamiroquai",
+      "has_synced": false,
+      "path": "select/13_Supersonic_Jamiroquai.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Supersonic (Live at Knebworth, 10 August '96)",
+      "artist": "Oasis",
+      "has_synced": false,
+      "path": "select/14_Supersonic_(Live_at_Knebworth,_10_August_'96)_Oasis.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Supersonic (Live at Knebworth)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/15_Supersonic_(Live_at_Knebworth)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Supersonic",
+      "artist": "Fleurie",
+      "has_synced": true,
+      "path": "select/16_Supersonic_Fleurie.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Supersonic (feat. Totlyn Jackson)",
+      "artist": "Basement Jaxx",
+      "has_synced": false,
+      "path": "select/17_Supersonic_(feat._Totlyn_Jackson)_Basement_Jaxx.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Supersonic",
+      "artist": "josh pan feat. Dylan Brady",
+      "has_synced": false,
+      "path": "select/18_Supersonic_josh_pan_feat._Dylan_Brady.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Supersonic",
+      "artist": "josh pan & Dylan Brady",
+      "has_synced": false,
+      "path": "select/19_Supersonic_josh_pan_&_Dylan_Brady.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Supersonic",
+      "artist": "fromis_9",
+      "has_synced": false,
+      "path": "select/pl_01_Supersonic_fromis_9.txt"
+    }
+  ]
+}
